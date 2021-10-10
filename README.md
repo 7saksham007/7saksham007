@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me by gmail 
+- 📫 How to reach me by sg8864997@gmail.com
 
 <!---
 7saksham007/7saksham007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
